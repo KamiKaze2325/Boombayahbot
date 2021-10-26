@@ -1,4 +1,4 @@
-# wabot-aq
+# boombayah bot by https://github.com/Nurutomo/wabot-aq
 
 Simple WhatsApp Bot
 
